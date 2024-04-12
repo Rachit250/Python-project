@@ -1,4 +1,4 @@
-for i in ["Harshit", "Goel"]:
+for i in ["Rachit", "Sharma"]:
     print(i)
     
 a=[1,2]
