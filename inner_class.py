@@ -1,7 +1,7 @@
 class Employee:
     def __init__(self):
-        self.name = "yash"
-        self.sapid = 500125397
+        self.name = "rachit"
+        self.sapid = 500121957
         self.AC= self.activity_coordinator()
     def info(self):
         print(self.name, self.sapid)
@@ -30,7 +30,7 @@ class assistant_prof:
             
 AP= assistant_prof.member()
 AP.show()
-AP1= assistant_prof("yash", 500125397)
+AP1= assistant_prof("rachit", 500121957)
 AP1.show()
 AP2=AP1.member()
 AP2.show()
